@@ -1,0 +1,29 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    
+}
+header{
+    background-color:rgb(6,169,224);
+    color:black;
+    text-align:center;
+    padding: 20px;
+}
+section{
+    padding:20px;
+}
+h2{
+    color:darkblue
+}
+.project{
+    background: #f2f2f2;
+    padding:10px;
+    margin:10px;
+    border:1px solid #ccc;
+}
+footer{
+    text-align: center;
+    background-color: bisque;
+    padding: 10px;
+}
